@@ -1,7 +1,5 @@
 package pacote_caneta;
 
-import java.util.Random;
-
 public class Caneta {
 
         public  static void main(String[] args ){
